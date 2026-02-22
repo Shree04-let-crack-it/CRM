@@ -38,3 +38,6 @@ smart_complaint_system/
 # Environment
 .env
 .env.local
+
+# Streamlit Secrets (keep local, don't commit)
+.streamlit/secrets.toml
